@@ -15,7 +15,3 @@ Make sure to complete section 1-3 of the lab. This involves calling a.out with m
 # To Turn In:
 Push your files to our GitHub classroom (See Zach's How-To Linux as a reference if you don't know how to submit). 
     - Link: https://eecs.wsu.edu/~cs360/ta_resources/howto-linux-cmds.html
-
-
-# Extra Resources:
-- https://github.com/SilasStokes/cpts360-resource-compendium/tree/main/lab1
