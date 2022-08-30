@@ -19,4 +19,3 @@ Push your files to our GitHub classroom (See Zach's How-To Linux as a reference 
 
 # Extra Resources:
 - https://github.com/SilasStokes/cpts360-resource-compendium/tree/main/lab1
-- Please add to the compendium if there's tips you think could benefit other students.
